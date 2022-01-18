@@ -198,7 +198,6 @@ with open(file_to_save, "w") as txt_file:
     txt_file.write(winning_candidate_summary)
 
 ## **4. Project Challenges**
-
 In order for this code to run without error, we need this code or the PyPoll_Challenge.py file to be stored in "**Election_Analysis**" folder which should contain two folders viz: "**Resources**" to store the election_results.csv file and "**analysis**" to store the election_analysis.txt file.
 
 ## **5. Project Summary**
